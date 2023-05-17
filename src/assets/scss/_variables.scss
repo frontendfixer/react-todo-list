@@ -1,0 +1,15 @@
+:root {
+  --clr-primary: hsl(326, 100%, 75%);
+  --bg-primary: hsl(231, 15%, 18%);
+  --fg-primary: hsl(60, 30%, 96%);
+
+  --clr-light: hsl(60, 30%, 96%);
+  --clr-dark: hsl(231, 15%, 13%);
+  --clr-gray: hsl(232, 14%, 31%);
+
+  --clr-neutral: hsl(0, 100%, 71%);
+
+  --transition-fast: all 250ms linear;
+  --transition: all 350ms linear;
+  --transition-slow: all 550ms linear;
+}
